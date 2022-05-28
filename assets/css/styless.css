@@ -11,6 +11,11 @@ header {
     background-color: #364552;
 }
 
+.container {
+    background-color: white;
+
+}
+
 .image-body {
     background-image: url(../img/bg.jpg);
     background-size: auto;
